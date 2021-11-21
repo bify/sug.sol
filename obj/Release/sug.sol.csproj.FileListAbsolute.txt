@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\sug.sol\sug.sol\bin\Release\sug.sol.exe.config
+C:\Users\Owner\source\repos\sug.sol\sug.sol\bin\Release\sug.sol.exe
+C:\Users\Owner\source\repos\sug.sol\sug.sol\bin\Release\sug.sol.pdb
+C:\Users\Owner\source\repos\sug.sol\sug.sol\bin\Release\FastColoredTextBox.dll
+C:\Users\Owner\source\repos\sug.sol\sug.sol\bin\Release\WeAreDevs_API.dll
+C:\Users\Owner\source\repos\sug.sol\sug.sol\obj\Release\sug.sol.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\sug.sol\sug.sol\obj\Release\sug.sol.ScriptHub.resources
+C:\Users\Owner\source\repos\sug.sol\sug.sol\obj\Release\sug.sol.sugoma.resources
+C:\Users\Owner\source\repos\sug.sol\sug.sol\obj\Release\sug.sol.Properties.Resources.resources
+C:\Users\Owner\source\repos\sug.sol\sug.sol\obj\Release\sug.sol.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\sug.sol\sug.sol\obj\Release\sug.sol.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\sug.sol\sug.sol\obj\Release\sug.sol.csproj.CopyComplete
+C:\Users\Owner\source\repos\sug.sol\sug.sol\obj\Release\sug.sol.exe
+C:\Users\Owner\source\repos\sug.sol\sug.sol\obj\Release\sug.sol.pdb
